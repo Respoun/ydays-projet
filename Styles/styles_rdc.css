@@ -1,0 +1,108 @@
+html, body{
+    /*width: 100%;*/
+    height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+    transition: background-color .5s;
+}
+
+
+/*my_map*/
+#my_map{
+    /*float: center;*/
+    /*height: 100%;*/
+    /*background: blue;*/
+    background-repeat: no-repeat;
+}
+
+#my_map path{
+    stroke: #fff;
+    stroke-width: 1px;
+    transition: fill 0.3s;
+}
+
+#my_map path:hover{
+    fill: #000;
+}
+
+#parking{
+    fill:#51546B;
+}
+#couloir1{
+    fill:#E5DADA;
+}
+#residence{
+    fill:#EA325F;
+}
+#escalierB1{
+    fill:#EB335F;
+}
+#escalierA1{
+    fill:#02B396;
+}
+#escalierc1{
+    fill:#02B095;
+}
+#ascC{
+    fill:#EA335F;
+}
+#ascB{
+    fill:#02B094;
+}
+#vie{
+    fill:#02B094;
+}
+#tech{
+    fill:#02B094;
+}
+#tech2{
+    fill:#E9325F;
+}
+#ascA{
+    fill:#02B095;
+}
+#salle03{
+    fill:#EA335F;
+}
+#salle04{
+    fill:#EA335F;
+}
+#salleattente{
+    fill:#02B095;
+}
+#escA2{
+    fill:#51546B;
+}
+#escaliertech{
+    fill:#51546B;
+}
+#amphib{
+    fill:#EA325F;
+}
+#escB3{
+    fill:#51546B;
+}
+#escB2{
+    fill:#51546B;
+}
+#wcrdc{
+    fill:#02B095;
+}
+#tech3{
+    fill:#E9335F;
+}
+#PC{
+    fill:#02B094;
+}
+#tech4{
+    fill:#03B094;
+}
+#escrdc{
+    fill:#51546B;
+}
+#escalierC2{
+    fill: #51546B;
+}

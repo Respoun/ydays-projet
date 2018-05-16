@@ -1,0 +1,53 @@
+html, body{
+	/*width: 100%;*/
+	height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+    transition: background-color .5s;
+}
+
+
+/*my_map*/
+#my_map{
+    /*float: center;*/
+	height: 85%;
+	/*background: blue;*/
+	background-repeat: no-repeat;
+}
+
+#my_map path{
+    stroke: #fff;
+    stroke-width: 1px;
+    transition: fill 0.3s;
+}
+
+#my_map path:hover{
+    fill: #000;
+}
+
+#couloir{
+    fill: #E7DCDC;
+}
+
+#s601602{
+    fill:#00B295;
+}
+
+#s603604, #s605606{
+    fill:#F0305D;
+}
+
+#s607608, #s609610{
+    fill:#01B29C;
+}
+
+#toilette{
+    fill:#EC325F;
+}
+
+#escalierB1, #escalierB3{
+    fill: #51546B;
+}

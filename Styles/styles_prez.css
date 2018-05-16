@@ -1,0 +1,36 @@
+#welcome{
+	margin: 0;
+	padding: 0;
+	background: url("../Images/logo-fond.png") no-repeat;
+	background-size: contain cover;
+	width: auto;
+	height: auto;
+	text-shadow: 1px 1px #fff;
+}
+
+#ecrit{
+	position: relative;
+	text-align: center;
+	height: auto;
+	width: auto;
+	padding: 5%;
+	/*margin: 10%;*/
+}
+
+h1{
+	color: #01B195;
+	font-size: 40px;
+	/*text-shadow: 1px 1px #fff;*/
+}
+
+h4{
+	font-size: 18px;
+	color: #990B0B;
+}
+
+#ecrit ul li{
+	display: block;
+	font-size: 18px;
+	color: #000;
+	text-shadow: 1px 1px #fff;
+}

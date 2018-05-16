@@ -1,0 +1,113 @@
+/*my_map*/
+#my_map{
+    margin: 0;
+    padding: 0;
+    /*float: center;*/
+    height: auto;
+    /*background: blue;*/
+    background-repeat: no-repeat;
+}
+
+#my_map path{
+    stroke: #fff;
+    stroke-width: 1px;
+    transition: fill 0.3s;
+}
+
+#my_map path:hover{
+    fill: #000;
+}
+
+#cafet{
+    fill:#EA325F;
+}
+#couloir1er{
+    fill:#E5DADA;
+}
+#tech11er{
+    fill:#EA3360;
+}
+#tech21er{
+    fill:#01B195;
+}
+#serviceinfo{
+    fill:#02B095;
+}
+#localmenage{
+    fill:#03B095;
+}
+#tech31er{
+    fill:#E9335F;
+}
+#escB11er{
+    fill:#51546B;
+}
+#escA11er{
+    fill:#51546B;
+}
+#escC11er{
+    fill:#51546B;
+}
+#ascC1er{
+    fill:#02B094;
+}
+#couloir11er{
+    fill:#E5DADA;
+}
+#ascA1er{
+    fill:#E9335F;
+}
+#wc1er{
+    fill:#02B095;
+}
+#escC21er{
+    fill:#51546B;
+}
+#amphib1er{
+    fill:#01B095;
+}
+#amphiv{
+    fill:#EA325F;
+}
+#mezzanine{
+    fill:#51546B;
+}
+#escA21er{
+    fill:#51546B;
+}
+#escB31er{
+    fill:#51546B;
+}
+#escB21er{
+    fill:#51546B;
+}
+#bocal{
+    fill:#02B095;
+}
+#escmain1{
+    fill:#51546B;
+}
+#wc21er{
+    fill:#03B095;
+}
+#salle1011{
+    fill:#03B095;
+}
+#salle107{
+    fill:#EA335F;
+}
+#salle109{
+    fill:#03B095;
+}
+#ascB1er{
+    fill:#E9335F;
+}
+#salle108{
+    fill:#03B095
+}
+#salle110{
+    fill:#E9335F;
+}
+#escmain2{
+    fill:#51546B;
+}

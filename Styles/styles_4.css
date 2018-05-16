@@ -1,0 +1,105 @@
+html, body{
+	/*width: 100%;*/
+	height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+    transition: background-color .5s;
+}
+
+
+/*my_map*/
+#my_map{
+  /*float: center;*/
+	height: auto;
+	/*background: blue;*/
+	background-repeat: no-repeat;
+}
+
+#my_map path{
+    stroke: #fff;
+    stroke-width: 1px;
+    transition: fill 0.3s;
+}
+
+#my_map path:hover{
+    fill: #000;
+}
+
+#couloir{
+    fill: #E7DCDC;
+}
+
+#s420421{
+  fill:#EE325F;
+}
+
+#s409408{
+  fill:#02B396;
+}
+
+#s406407, #s410411{
+  fill: #F1325D;
+}
+
+#s403404{
+  fill: #EF325E;
+}
+
+#s412413{
+  fill: #02B19D;
+}
+
+#escalierC1, #escalierA1{
+  fill: #51546B;
+}
+
+#s419, #s417, #s414415, #s422423{
+  fill: #03B39D;
+}
+
+#s416, #s426427{
+  fill: #EE3260;
+}
+
+#s405{
+  fill: #02B396;
+}
+
+#s418{
+  fill: #EC325E;
+}
+
+#s424425{
+  fill: #EC3260;
+}
+
+#escalierB1{
+  fill: #51546B;
+}
+
+#s401402{
+  fill: #F1325F;
+}
+
+#toilette{
+  fill: #EB3461;
+}
+
+#escalierB3{
+  fill: #51546B;
+}
+
+#ascenseurC{
+  fill: #05B39D;
+}
+
+#escalierA2{
+  fill: #51546B;
+}
+
+#escalierC2{
+  fill: #51546B;
+}
